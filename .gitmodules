@@ -1,0 +1,3 @@
+[submodule "gitTest2"]
+	path = gitTest2
+	url = https://github.com/HDFFront-endTeam/gitTest2.git
